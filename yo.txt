@@ -6,5 +6,6 @@
 2222
 22222
 第二版完成
-333 not rich
-3333 not rich
+333 not rich / rich
+3333 not rich / rich
+
